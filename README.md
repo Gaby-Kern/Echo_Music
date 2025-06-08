@@ -8,9 +8,9 @@ O **Echo Music** é um projeto de análise de dados para antecipação de riscos
 <details>
 <summary><strong>🚨 O problema</strong></summary>
 
-**Problema e a justificativa do uso de dados.**
+## **Problema e a justificativa do uso de dados.**
 
-## Descrição detalhada do problema:
+### Descrição detalhada do problema:
 
 Grandes eventos públicos, como manifestações políticas, shows, jogos esportivos e festivais culturais, reúnem milhares ou até milhões de pessoas em um único local. Apesar da importância social e cultural desses eventos, eles também apresentam riscos elevados de tumultos, atos de violência, vandalismo e até ataques terroristas. A dificuldade está em monitorar, em tempo real, o comportamento de grandes multidões e antecipar situações que possam evoluir para crises de segurança.  
 Além disso, a resposta das forças de segurança costuma ser reativa, ou seja, ocorre depois que o problema já se instalou, o que dificulta a contenção e aumenta os riscos para a população e para a infraestrutura local.
@@ -24,7 +24,7 @@ Eficiência do uso de análise de dados
 
 ---
 
-## Conclusão
+### Conclusão
 
 Este projeto é altamente relevante porque:
 
@@ -33,7 +33,7 @@ Este projeto é altamente relevante porque:
 * Pode ser replicado para outros eventos em larga escala no Brasil e no mundo.  
 * Fortalece a confiança social na realização de eventos públicos seguros, estimulando a participação cidadã.
 
-## Exemplo real:
+### Exemplo real:
 
 Tentativa de atentado no show gratuito de Lady Gaga em Copacabana (2025).  
 Em 3 de maio de 2025, Lady Gaga realizou um show gratuito na Praia de Copacabana, no Rio de Janeiro, que atraiu mais de 2 milhões de pessoas, tornando-se o maior evento da carreira da artista.  
