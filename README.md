@@ -166,6 +166,19 @@ Assim, o uso de dados sintéticos neste projeto não compromete a validade da pr
 </details>
 
 <details>
+<summary><strong>Acesso aos notebooks</strong></summary>
+
+- [Tabelas_Redes_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabelas_Redes_Collab.ipynb)  
+- [Tabelas_Câmeras_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabelas_Câmeras_Collab.ipynb)  
+- [Tabela_transporte_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_transporte_Collab.ipynb)  
+- [Tabela_Meteorologia_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Meteorologia_Collab.ipynb)  
+- [Tabela_Historico_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Historico_Collab.ipynb)  
+- [Tabela_Sensores_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Sensores_Collab.ipynb)  
+- [Tabela_Mapas_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Mapas_Collab.ipynb)  
+
+</details>
+
+<details>
 <summary><strong>📊 Insights</strong></summary>
 
 <details>
