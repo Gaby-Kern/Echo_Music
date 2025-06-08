@@ -172,9 +172,10 @@ Assim, o uso de dados sintéticos neste projeto não compromete a validade da pr
 - [Tabela_Historico_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Historico_Collab.ipynb)  
 - [Tabela_Sensores_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Sensores_Collab.ipynb)  
 - [Tabela_Mapas_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Mapas_Collab.ipynb)  
-
 <details>
-<summary><strong>📊 Insights</strong></summary>
+  
+<details>
+<summary><strong> Insights </strong></summary>
 
 <details>
 <summary><strong>1. Redes sociais</strong></summary>
