@@ -180,61 +180,101 @@ Assim, o uso de dados sintéticos neste projeto não compromete a validade da pr
 <details>
 <summary><strong>📊 Insights</strong></summary>
 
+# Tabelas
+
 <details>
 <summary><strong>1. Redes sociais</strong></summary>
+  
+**Insight detalhado:** 
 
-![Insight redes sociais](Visualizações/relatorio_redes_sociais.png)
+**Insight:**  
+A análise evidencia que, ao longo do período monitorado, os discursos neutros predominaram, tanto em volume quanto em engajamento, enquanto os discursos negativos permaneceram como minoria. No entanto, identificou-se um pequeno, mas consistente aumento na quantidade de comentários negativos, especialmente nos dois meses que antecederam o evento.  
+Esse crescimento foi mais expressivo na rede social Paxarinho, indicando a necessidade de um monitoramento mais intenso e direcionado nesta plataforma.  
+Apesar do maior volume de engajamento estar associado aos comentários neutros, a mediana de reações é proporcional entre os três tipos de discurso, revelando que comentários negativos, embora menos frequentes, também têm potencial significativo de engajamento.  
+Esse padrão reforça a importância de manter um monitoramento ativo e contínuo, pois discursos negativos, mesmo que minoritários, podem alcançar uma ampla disseminação e gerar impactos relevantes na dinâmica social das plataformas analisadas.  
 
-**Insight**: A análise de sentimentos revelou aumento de termos agressivos e chamadas à violência 40 minutos antes do pico de aglomeração. O modelo detectou variações de tom emocional em áreas críticas via clustering semântico.
+**Imagem:**  
+<img src="Relatório_Redes-1.png" width="600"><br>
+<img src="Relatório_Redes-2.png" width="600"><br>
+<img src="Relatório_Redes-3.png" width="600">
 
 </details>
 
 <details>
 <summary><strong>2. Câmeras públicas</strong></summary>
 
-![Insight câmeras públicas](Visualizações/relatorio_cameras.png)
+**Insight:**  
+A análise evidencia que, apesar de aglomerações durarem mais, o volume de ocorrências de veículos parados é superior. Esse padrão sugere que diferentes tipos de eventos requerem abordagens distintas:  
+Aglomerações podem demandar maior tempo de resposta e estratégias para redução de permanência.  
+Veículos parados, apesar de rápidos, são numerosos e podem indicar problemas de mobilidade ou risco potencial.  
+A distribuição equilibrada entre as câmeras reforça a necessidade de manter a vigilância de forma ampla e contínua, sem priorizar exclusivamente um ponto específico. 
 
-**Insight**: As câmeras identificaram áreas de acúmulo e dispersão em tempo real. Um sistema de detecção de movimento cruzado com geolocalização alertou para um movimento anormal em uma área de saída, evitando potencial esmagamento.
+**Imagem:**  
+<img src="Relatório_Câmeras-1.png" width="600">
 
 </details>
 
 <details>
 <summary><strong>3. Transporte público</strong></summary>
 
-![Insight transporte público](Visualizações/relatorio_transporte.png)
+**Insight:**  
+Com base na Análise de Rotas Alternativas, conseguimos identificar padrões importantes para a tomada de decisão sobre mobilidade urbana.  
+As linhas de metrô demonstraram maior eficiência em termos de tempo médio de viagem, sendo mais rápidas que as linhas de ônibus.  
+Apesar da eficiência, o metrô também apresentou uma lotação estimada superior tanto no sentido de ida quanto na volta, indicando uma maior demanda nesse tipo de transporte.  
+Em relação aos status das linhas, os dados mostram que o metrô apresenta menos problemas operacionais (como interrupções ou atrasos) do que as linhas de ônibus, reforçando sua confiabilidade como alternativa.  
+Contudo, ao analisarmos a proporção de status problemáticos (gráfico de pizza), percebemos que as linhas possuem uma distribuição uniforme de cerca de 20% de ocorrências problemáticas, independentemente do tipo de transporte.  
 
-**Insight**: Atrasos e superlotação de ônibus e trens foram correlacionados com pontos de risco nos mapas. Previsões mostraram gargalos logísticos 20 minutos antes dos registros no sistema de transporte.
+**Imagem:**  
+<img src="Relatório_Transporte-1.png" width="600">
 
 </details>
 
 <details>
 <summary><strong>4. Meteorologia</strong></summary>
 
-![Insight meteorologia](Visualizações/relatorio_meteorologia.png)
+**Insight:**  
+A análise meteorológica revelou tendências importantes que podem impactar diretamente na segurança e no planejamento do evento.   
+A elevação da umidade e a queda de temperatura indicam potencial aumento de chuvas, embora a pressão atmosférica permaneça estável, reduzindo o risco imediato de tempestades severas.  
+Esses dados são cruciais para a tomada de decisões preventivas, como ajustes no cronograma, preparação de áreas cobertas, reforço de sinalizações de segurança e orientações específicas ao público sobre vestimentas adequadas e hidratação.  
+Dessa forma, a análise meteorológica transforma-se em uma ferramenta estratégica para garantir a continuidade, segurança e conforto durante o evento.
 
-**Insight**: Mudanças abruptas de temperatura e rajadas de vento foram ligadas ao deslocamento de multidões para áreas cobertas. A integração com previsão em tempo real gerou alertas preventivos.
+**Imagem:**  
+<img src="Relatório_Meteorológico-1.png" width="600">
 
 </details>
 
 <details>
 <summary><strong>5. Histórico de crimes</strong></summary>
 
-![Insight histórico de crimes](Visualizações/relatorio_ocorrencias.png)
+**Insight:**  
+A análise indicou que o volume de crimes permaneceu estável ao longo do período avaliado, com uma média diária entre 60 e 61 ocorrências, sem picos ou quedas significativas. Esse comportamento sugere que o risco de crimes é contínuo e não concentrado em horários específicos, o que exige uma vigilância constante durante todo o evento. Observou-se uma concentração significativa de crimes na área próxima à saída Norte, que registrou cerca de 400 ocorrências, enquanto as saídas Sul e Leste apresentaram números bem menores, entre 200 e 250\. Esse dado evidencia uma vulnerabilidade maior na saída Norte, possivelmente relacionada ao maior fluxo de pessoas ou à configuração física dessa área. Em relação aos tipos de crime, a distribuição foi relativamente equilibrada entre as categorias, com destaque discreto para “Tumulto”, que apresentou uma participação levemente superior, mas ainda próxima de 16% para cada tipo. Esse padrão indica que não há um tipo de crime predominante, o que reforça a necessidade de abordagens de segurança abrangentes, e não focadas exclusivamente em determinados comportamentos.  
+Diante desses resultados, recomenda-se reforçar a segurança na saída Norte, com mais agentes e monitoramento, além de manter medidas preventivas nas demais saídas. A adoção de barreiras físicas, sinalização adequada e sistemas de monitoramento em tempo real pode ajudar a reduzir riscos, melhorar o controle do fluxo e minimizar a ocorrência de novos incidentes.
 
-**Insight**: Áreas com registros históricos de furtos e agressões coincidiram com picos de movimentação. Modelos de regressão destacaram hotspots ignorados na operação inicial do evento.
+**Imagem:**  
+<img src="Relatório_Historico-1.png" width="600">
 
 </details>
 
 <details>
 <summary><strong>6. Sensores urbanos</strong></summary>
 
-![Insight sensores urbanos](Visualizações/relatorio_sensores.png)
+**Insight:**  
+Os dados indicam que o principal desafio na gestão das áreas monitoradas é o controle de aglomerações, especialmente em pontos específicos como as câmeras 1 e 3\. Recomenda-se reforçar medidas de segurança e controle de fluxo nesses locais, como presença de agentes de monitoramento e sinalização preventiva. A tendência de queda nas aglomerações ao longo do tempo pode indicar a eficácia de ações já implementadas, mas recomenda-se manter a vigilância, principalmente em horários ou eventos de maior movimento. Dado o baixo volume de registros de veículos parados e pessoas caídas, esses incidentes podem ser tratados com protocolos de resposta padrão, sem necessidade imediata de alocação adicional de recursos. Por fim, sugere-se o uso contínuo de ferramentas de análise automatizada para identificar rapidamente alterações nos padrões de movimentação e antecipar riscos, garantindo segurança e fluidez no ambiente monitorado. 
 
-**Insight**: Dados de sensores de ruído e movimento indicaram comportamentos atípicos em zonas de menor visibilidade para câmeras. A integração com clusters de tweets elevou a confiança de detecção.
+**Imagem:**  
+<img src="Relatório_Sensores-1.png" width="600">
 
 </details>
 
 <details>
 <summary><strong>7. Mapas e localização</strong></summary>
 
-![Insight mapas e localização](Visualizações/relatorio_mapas.png)
+**Insight:**  
+A análise evidencia que os palcos principais atraíram o maior público, demandando maior atenção em termos de segurança, infraestrutura e fluxo de pessoas nesses locais. Os picos de concentração registrados à noite indicam a necessidade de reforço de equipes e controles neste período para evitar superlotação e garantir a segurança do público. Recomenda-se também melhorar a sinalização e o acesso às áreas de convivência e banheiros, que, apesar de terem menor fluxo, são essenciais para o conforto e bem-estar dos participantes. Monitoramento contínuo e planejamento estratégico baseado nesses dados podem otimizar a gestão do evento e a experiência dos visitantes. 
+
+**Imagem:**  
+<img src="Relatório_Mapas-1.png" width="600">
+
+</details>
+
+</details>
