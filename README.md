@@ -171,11 +171,14 @@ Assim, o uso de dados sintéticos neste projeto não compromete a validade da pr
 - [Tabela_Meteorologia_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Meteorologia_Collab.ipynb)  
 - [Tabela_Historico_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Historico_Collab.ipynb)  
 - [Tabela_Sensores_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Sensores_Collab.ipynb)  
-- [Tabela_Mapas_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Mapas_Collab.ipynb)  
+- [Tabela_Mapas_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Mapas_Collab.ipynb)
+
+</details>
+
+</details>
+
 <details>
-  
-<details>
-<summary><strong> Insights </strong></summary>
+<summary><strong>📊 Insights</strong></summary>
 
 <details>
 <summary><strong>1. Redes sociais</strong></summary>
@@ -235,9 +238,3 @@ Assim, o uso de dados sintéticos neste projeto não compromete a validade da pr
 <summary><strong>7. Mapas e localização</strong></summary>
 
 ![Insight mapas e localização](Visualizações/relatorio_mapas.png)
-
-**Insight**: Heatmaps interativos mostraram áreas com potencial de evasão dificultada. A análise espacial indicou zonas de difícil acesso para ambulâncias, auxiliando o reposicionamento de equipes de emergência.
-
-</details>
-
-</details>
