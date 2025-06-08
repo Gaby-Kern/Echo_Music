@@ -133,19 +133,21 @@ Estruturados: tabelas com localização, tipo de ocorrência, data e hora.
 
 ### **6\. Sensores Urbanos e Dados de Ruído** (Plataformas Open Data)
 
-## **Descrição:** Sensores instalados em cidades inteligentes coletam dados sobre níveis de ruído, poluição e densidade de pessoas. **Tipo de dados:** Estruturados: níveis de decibéis, fluxo de pessoas. **Métodos de acesso e coleta:**
+**Descrição:** 
+Sensores instalados em cidades inteligentes coletam dados sobre níveis de ruído, poluição e densidade de pessoas. **Tipo de dados:** Estruturados: níveis de decibéis, fluxo de pessoas. **Métodos de acesso e coleta:**
+**Métodos de acesso e coleta:**
 
-* ## Plataformas Open Data: exemplos: NYC Open Data, Dados Abertos SP.
-
-* ## APIs de sensores urbanos: Smart Cities com sistemas de dados abertos podem oferecer esse recurso.
+* Plataformas Open Data: exemplos: NYC Open Data, Dados Abertos SP.
+* APIs de sensores urbanos: Smart Cities com sistemas de dados abertos podem oferecer esse recurso.
 
 ---
 
 ### **7\. Mapas e localização:** 
 
-## **Dados de localização e mapas (OpenStreetMap):** importantes para a visualização geoespacial e roteamento, mas não essenciais para a detecção direta de tumultos.
-
-# Os dados foram criados com ferramentas e bibliotecas generativas. 
+**Descrição:**
+Dados de localização e mapas (OpenStreetMap): importantes para a visualização geoespacial e roteamento, mas não essenciais para a detecção direta de tumultos.
+**Métodos de coleta:**
+Os dados foram criados com ferramentas e bibliotecas generativas. 
 
 ## Justificativa do uso de dados sintéticos:
 
