@@ -163,10 +163,7 @@ Os dados sintéticos são informações geradas artificialmente que imitam carac
 
 Assim, o uso de dados sintéticos neste projeto não compromete a validade da proposta, pois o foco está na demonstração da metodologia e no potencial da análise de dados como ferramenta para prevenção de crises em eventos de grande porte.
 
-</details>
-
-<details>
-<summary><strong>Acesso aos notebooks</strong></summary>
+# Acesso aos notebooks
 
 - [Tabelas_Redes_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabelas_Redes_Collab.ipynb)  
 - [Tabelas_Câmeras_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabelas_Câmeras_Collab.ipynb)  
@@ -175,8 +172,6 @@ Assim, o uso de dados sintéticos neste projeto não compromete a validade da pr
 - [Tabela_Historico_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Historico_Collab.ipynb)  
 - [Tabela_Sensores_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Sensores_Collab.ipynb)  
 - [Tabela_Mapas_Collab.ipynb](https://github.com/gabianalista/Echo_Music/blob/main/Tabela_Mapas_Collab.ipynb)  
-
-</details>
 
 <details>
 <summary><strong>📊 Insights</strong></summary>
