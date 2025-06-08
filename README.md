@@ -141,9 +141,9 @@ Estruturados: tabelas com localização, tipo de ocorrência, data e hora.
 
 ---
 
-## **Fontes secundárias (não prioritárias, mas complementares):** 
+### **7\. Mapas e localização:** 
 
-**Dados de localização e mapas (OpenStreetMap):** importantes para a visualização geoespacial e roteamento, mas não essenciais para a detecção direta de tumultos.
+## **Dados de localização e mapas (OpenStreetMap):** importantes para a visualização geoespacial e roteamento, mas não essenciais para a detecção direta de tumultos.
 
 # Os dados foram criados com ferramentas e bibliotecas generativas. 
 
@@ -160,13 +160,6 @@ Os dados sintéticos são informações geradas artificialmente que imitam carac
 3. Favorece a transparência e a replicabilidade, uma vez que os dados podem ser compartilhados livremente para fins educacionais ou de pesquisa.
 
 Assim, o uso de dados sintéticos neste projeto não compromete a validade da proposta, pois o foco está na demonstração da metodologia e no potencial da análise de dados como ferramenta para prevenção de crises em eventos de grande porte.
-
-</details>
-
-<details>
-<summary><strong>📓 Acesso aos notebooks</strong></summary>
-
-
 
 </details>
 
