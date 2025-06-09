@@ -1,5 +1,4 @@
-<details>
-<summary><strong>📍 Sobre</strong></summary>
+## Sobre o projeto:  
 
 O **Echo Music** é um projeto de análise de dados para antecipação de riscos em eventos públicos de grande porte. Utiliza dados sintéticos inspirados em fontes reais para detectar padrões associados a tumultos, crimes e situações de emergência. A proposta é contribuir com estratégias de prevenção em eventos como shows, festivais e grandes manifestações, por meio da análise de dados em tempo real.
 
@@ -290,3 +289,5 @@ A análise evidencia que os palcos principais atraíram o maior público, demand
 </details>
 
 </details>
+
+ *Até mais, e obrigado pelos peixes* 🐬
